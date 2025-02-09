@@ -182,7 +182,7 @@ function calculateRoute() {
     
         // Define a custom car icon
         var carIcon = L.icon({
-            iconUrl: "C:/Users/Admin/OneDrive/Desktop/last Map/Last Final Map/car logo.png", // Ensure the path is correct
+            iconUrl: "C:\\Users\\arjun\\OneDrive\\Desktop\\web_live\\car logo.png", // Ensure the path is correct
             iconSize: [60, 60],  // Adjust size as needed
             iconAnchor: [20, 20], // Center the icon properly
             popupAnchor: [0, -20] 
